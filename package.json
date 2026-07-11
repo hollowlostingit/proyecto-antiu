@@ -1,0 +1,11 @@
+{
+  "name": "proyecto-antiu",
+  "version": "1.0.0",
+  "main": "servidor.js",
+  "scripts": {
+    "start": "node servidor.js"
+  },
+  "dependencies": {
+    "express": "^4.19.2"
+  }
+}
